@@ -28,3 +28,4 @@
 ## Project Link
 
 You can try ListPlanner by clicking the following link :link: [TimeTracker](https://app-timetracker.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ce4e912-a2bb-4197-b50f-13fc76b4f69f/deploy-status)](https://app.netlify.com/sites/app-timetracker/deploys)
